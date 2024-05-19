@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Detail Data Produk - Rystore</title>
+    <title>Detail Data Produk - ExeShop</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 
@@ -13,8 +13,8 @@
 
     <div class="section">
         <div class="container mt-5">
-            <h1 class="text-center my-4" style="color: #47b5ff; font-weight: bolder">RYSTORE</h1>
-            <a href="/laptops" class="btn btn-md btn-success mb-3">DATA PRODUK</a>
+            <h1 class="text-center my-4" style="color: #47b5ff; font-weight: bolder">ExeShop</h1>
+            <a href="/laptops" class="btn btn-md btn-success mb-3">DATA GAME</a>
             <div style="background-color: white; padding: 10px auto">
                 <div class="box">
                     <div class="row">
